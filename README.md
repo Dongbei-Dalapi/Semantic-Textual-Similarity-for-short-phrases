@@ -2,9 +2,9 @@
 an implementaion of the model detects if the two job titles are similar. Job titles are shorter than usual sentence, so we use character level embeddings instead of word level embeddings.
 
 ## Data
-The training data is stored in train_data.csv where the similar titles are store in the same row. We create titles pair by linking titles from different rows and same row (data_process.py). The training data is splited and 30% of it is used as testing data. 
+The training data is stored in ./data/train_data.csv where the similar titles are store in the same row. We create titles pair by linking titles from different rows and same row (data_process.py). The training data is splited and 30% of it is used as testing data. 
 <br><br>
-Additional testing data can be added to test_data.txt where the titles are separate by comma.
+Additional testing data can be added to ./data/test_data.txt where the titles are separate by comma.
 
 ## Siamese LSTM
 We use character-level bidirectional LSTM’s with a Siamese architecture
