@@ -1,0 +1,16 @@
+software engineer,software developer
+sftwre engineer,software engineer
+web developer,fullstack developer
+QA tester,quality assurance tester
+software-engineer,c++ software engineer
+frontend developer,backend developer
+data scientist,python developer
+software architect,ui designer
+software engineer,data analyst
+product owner,database administrator
+python engineer,java developer
+Back-end developer,backend engineer
+ux/ui designer,ui designer
+web engineer,web developer
+AI developer,ML engineer
+golang developer,go engineer
